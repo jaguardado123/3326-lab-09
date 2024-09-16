@@ -1,4 +1,4 @@
-# Lab Assignment 08
+# Lab Assignment 09
 
 In this lab you will practice working with a while loop.
 
