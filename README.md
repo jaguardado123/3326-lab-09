@@ -34,7 +34,7 @@ For more information on break and continue statements in Java visit: https://www
 
 ## Your Assignment
 
-### Number Guessing Game
+### Guessing Game
 
 For this assignment you will create a guessing game. **Generate a random number in range [0 - 100]** and prompt the user to guess that number within the range. 
 
@@ -44,12 +44,14 @@ For this assignment you will create a guessing game. **Generate a random number 
 
 If the user missed all <ins>3 guesses</ins>, let them know they lost and **reveal the random number**.
 
-**Expected Ouput:**
+**Suggested Ouput:**
 
-<img src="img/lab8-expected.png" width="400px">
+<img src="img/expected.png" width="400px">
 
-<img src="img/lab8-expected2.png" width="400px">
+<img src="img/expected2.png" width="400px">
 
 ## Submit your assignment
 
-To submit your lab assignment click on the **Source Control** icon (3 circles with 2 lines) on your leftside navbar. Next, click on the **+** symbol next to **Changes** to stage your changes. Lastly, add a commit message (ex: "First commit") and click **Commit** then **Sync Changes**. And you're done!
+[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_09.pdf)
+
+[How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
