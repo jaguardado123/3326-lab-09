@@ -1,6 +1,6 @@
-# Lab Assignment 09
+# Lab 09
 
-In this lab you will practice working with a while loop.
+In this lab you will practice working with a **while** or **do-while** loop.
 
 Same as the previous labs, you need to set up your workspace (class and main() method).
 
