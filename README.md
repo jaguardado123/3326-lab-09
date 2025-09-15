@@ -50,8 +50,17 @@ If the user missed all <ins>3 guesses</ins>, let them know they lost and **revea
 
 <img src="img/expected2.png" width="400px">
 
-## Submit your assignment
+<br>
 
-[Grading Criteria](https://joselitoguardado.dev/3326/labs/Lab_09.pdf)
+**Grading Criteria:**
+| Criteria | Points |
+|---|---|
+| Program generates a random number between 0 and 100. | 5 |
+| Program gives the user 3 guesses. | 40 |
+| Program lets the user know if they guessed too high or too low. | 20 |
+| Program gives the user an extra guess, if guess is out of range. | 20 |
+| Program reveals the random number if all 3 guesses are wrong. | 5 |
+| File and class are named GuessingGame. | 5 |
+| Class is public. | 5 |
 
 [How to Submit Assignments to GitHub](https://joselitoguardado.dev/3326/How_to_Submit_Assignments_to_GitHub.pdf)
